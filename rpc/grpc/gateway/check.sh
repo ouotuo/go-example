@@ -1,0 +1,1 @@
+curl -d '{"value":"fff"}'  "http://localhost:9080/v1/echoService/echo"
